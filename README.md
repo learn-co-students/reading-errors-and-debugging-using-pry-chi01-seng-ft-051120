@@ -1,4 +1,4 @@
-# Debugging with Pry
+ruby lib/pry_is_awesome.rb# Debugging with Pry
 
 ## Overview
 
